@@ -499,6 +499,14 @@ export const BestBuy: Store = {
 			series: '3060ti',
 			url:
 				'https://www.bestbuy.com/site/msi-geforce-rtx-3060-ti-ventus-2x-oc-bv-8gb-gddr6-pci-express-4-0-graphics-card-black-black/6441172.p?skuId=6441172&intl=nosplash'
+		},
+		{
+			brand: 'evga',
+			cartUrl: 'https://api.bestbuy.com/click/-/6444445/cart',
+			model: 'xc gaming',
+			series: '3060ti',
+			url:
+				'https://www.bestbuy.com/site/evga-geforce-rtx-3060-ti-xc-gaming-8gb-gddr6-pci-express-4-0-graphics-card/6444445.p?skuId=6444445&intl=nosplash'
 		}
 	],
 	name: 'bestbuy'
